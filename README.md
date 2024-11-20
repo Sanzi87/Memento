@@ -45,7 +45,7 @@ The project is organized by language into the following folders:
 Inside each folder, you'll find the files listed in the folder structure. You can execute the code for the specific language to observe how the Memento pattern works.
 For example:
 
-- Python: Run CMS.py
+- Python: python CMS.py
 - PHP: Execute CMS.php
-- JavaScript: Use node CMS.js
-- TypeScript: Compile and run CMS.ts
+- JavaScript: node CMS.js
+- TypeScript: Compile and run CMS.ts or install ts-node TypeScript execution engine "npm install -g ts-node" and run "ts-node CMS.ts"
